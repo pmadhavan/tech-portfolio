@@ -12,8 +12,8 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Your Name Here', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    title: 'Padmaja Madhavan', // Title for your website.
+    tagline: 'Front End Engineer',
     profilePhoto: 'img/profile.png',
     url: 'https://joatmon08.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
